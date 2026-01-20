@@ -95,7 +95,7 @@ These features provide **topographic context** for forest mapping.
 - Used for validation and model calibration
 - Only a limited number of clean annotations are provided, consistent with the “few clean data” setting
 
-Clean labels are shared as **vector data** to preserve annotation precision and avoid redistribution of third-party imagery.
+Clean labels are shared as **vector data** to preserve annotation precision .
 
 ---
 
