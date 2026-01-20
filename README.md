@@ -112,14 +112,20 @@ Clean labels are shared as **vector data** to preserve annotation precision and 
 
 ## 7. Code (Google Earth Engine)
 
-This repository also includes a Google Earth Engine script used to generate the figures and to demonstrate how to access the public raw datasets (Sentinel-2, ESA WorldCover, SRTM):
+This repository also includes a Google Earth Engine (GEE) script used to generate the figures
+and to demonstrate how the **public raw datasets** used in this study can be accessed and processed.
 
-- `scripts/gee_figures_and_data_access.js`
+**Script location:**  
+`scripts/gee_figures_and_data_access.js`
 
-The script reproduces:
-- ESA WorldCover visualisation (official palette) for Algeria
-- Sentinel-2 RGB composite for Algeria (median year composite)
-- DEM HSV (aspect/slope/hillshade) with NDVI overlay
+The script reproduces representative visualisations and preprocessing steps, including:
+- ESA WorldCover land-cover map for Algeria (official color palette)
+- Sentinel-2 RGB composite (median annual composite)
+- DEM-based HSV visualization (aspect, slope, hillshade) with NDVI overlay
+
+This code is provided **for reproducibility and transparency only**.  
+It illustrates the data access and processing pipeline, while the full raw datasets remain
+available through their official public platforms (Google Earth Engine / ESA).
 
 ---
 
