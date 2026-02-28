@@ -131,6 +131,13 @@ available through their official public platforms (Google Earth Engine / ESA).
 
 ## 8. Associated Work
 
-This dataset is associated with an **ongoing research manuscript** on forest mapping in Algeria using noisy labels and few clean data.  
-Reference information will be updated upon publication.
+This dataset supports the published research work:
+
+**A Forest Mapping Model for Algeria Using Noisy Labels and Few Clean Data**  
+Lilia Ammar Khodja, Meziane Iftene, Mohammed El Amin Larabi  
+*Engineering Proceedings*, 2026, 124(1), 19.  
+DOI: https://doi.org/10.3390/engproc2026124019  
+MDPI link: https://www.mdpi.com/2673-4591/124/1/19
+
+The dataset is released to support methodological transparency and reproducibility of the published results.
 
